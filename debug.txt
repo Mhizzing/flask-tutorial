@@ -1,0 +1,6 @@
+Debugging Flask
+
+Set the following environment variable in terminal:
+> $env:FLASK_DEBUG=1
+
+Displays errors in browser, and also enables reloader so that program refreshes on save while running
